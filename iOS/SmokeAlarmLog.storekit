@@ -1,0 +1,40 @@
+{
+  "identifier": "SK_CONFIG",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "SUBGROUP1",
+      "localizations": [],
+      "name": "Smoke Alarm Log Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "SUB1",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlimited detectors, recurring test reminders, and battery-type notes",
+              "displayName": "Smoke Alarm Log Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.smokealarmlog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Smoke Alarm Log Pro Monthly",
+          "subscriptionGroupID": "SUBGROUP1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
